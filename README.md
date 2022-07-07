@@ -4,3 +4,5 @@ readme
 let
 pull
 const
+code 
+note
